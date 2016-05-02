@@ -186,7 +186,9 @@ ul {
   height: 650px;
 }
 
-
+a {
+  font-size: 22px;
+}
 
 
 /*.leftproject .rightproject { 
