@@ -99,6 +99,7 @@ body {
   padding:5px;
   border-radius: 5px;
   border: 0px;
+  font-size: 16px;
 }
 
 /*.slide a:hover, .slide a:active {
@@ -118,7 +119,7 @@ h2 {
 }
 
 h3 {
-  font-size: 20px;
+  font-size: 24px;
 }
 
 .masthead{
@@ -180,10 +181,10 @@ ul {
    background: #1b435e;
    }
 
-#slide3 {
-  width: 850px;
-  height: 650px;
-}
+/*#slide3 {
+  width: 450px;
+  height: 400px;
+} */
 
 
 
